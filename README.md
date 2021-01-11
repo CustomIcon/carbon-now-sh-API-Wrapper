@@ -29,7 +29,6 @@ import asyncio
 from carbonnow import Carbon
 
 code = """
-import asyncio
 
 async def func():
     return "Hello from Carbonara"
